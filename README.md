@@ -14,6 +14,8 @@ I like to automate things for ease of public and try to develop such kind of ide
 ## 🌐Socials
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saqlain-mushtaq-50b419216)  -->
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="mushtaqalvi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/mushtaqalvi?trk=profile-badge">Saqlain Mushtaq</a></div>
               
 
