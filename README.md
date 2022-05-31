@@ -27,8 +27,7 @@ I like to automate things for ease of public and try to develop such kind of ide
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MushtaqAlvi&icon=2&color=10)](https://visitcount.itsvg.in)
