@@ -9,7 +9,7 @@ I am undergraduate in Bachelor of Science Software Engineering.
 My Hobby is to discover new tech related things.
 Mostly I spend my a lot of time in front of computer screen by doing programming stuff every day.
 I like to automate things for ease of public and try to develop such kind of ideas which can help other people to complete different tasks in short period of time.
-~Knowledge is power and source of knowledge cant be closed until death.
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saqlain-mushtaq-50b419216) 
