@@ -1,16 +1,7 @@
 
 # 💫About Me :
 
-I am a Cross Platform Flutter Developer.
-I have experience in Native Android Development.
-I have worked with Java Enterprise as well, mainly in Developing GUI Tools.
-I have also worked with PHP for basic WEB Development as well specially for APIs Development for my own Projects.
-I have intermediate knowledge in Python , C and C++ Programming Languages.
-I have core command in Networking and Cyber Security as well very much familiar with Unix like Operating Systems as Linux based Distributions and my favorite is Parrot OS.
-I am undergraduate in Bachelor of Science Software Engineering.
-My Hobby is to discover new tech related things.
-Mostly I spend my a lot of time in front of computer screen by doing programming stuff every day.
-I like to automate things for ease of public and try to develop such kind of ideas which can help other people to complete different tasks in short period of time.
+Developer
 
 
 ## 🌐Socials
